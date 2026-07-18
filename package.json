@@ -1,0 +1,9 @@
+{
+  "name": "demo-broken-app",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
